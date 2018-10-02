@@ -1,0 +1,9 @@
+<toolSet name="External Tools">
+  <tool name="php cs-fixer" description="Command with --dry-run and --diff" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+    <exec>
+      <option name="COMMAND" value="php-cs-fixer " />
+      <option name="PARAMETERS" value="fix  --dry-run --diff" />
+      <option name="WORKING_DIRECTORY" value="$USER_HOME$/dev/webPT/file-permission-manager/src" />
+    </exec>
+  </tool>
+</toolSet>

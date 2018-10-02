@@ -1,0 +1,23 @@
+<application>
+  <component name="libraryTable">
+    <library name="MooTools-1.4.2" type="javaScript">
+      <properties>
+        <option name="frameworkName" value="MooTools" />
+        <option name="frameworkVersion" value="1.4.2" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/Library/Caches/WebIde10/extLibs/http_mootools.net_download_get_mootools-core-1.4.2-full-nocompat.js" />
+      </CLASSES>
+      <DOCUMENTATION>
+        <root url="http://mootools.net/docs" />
+      </DOCUMENTATION>
+      <SOURCES />
+    </library>
+    <library name="sass-stdlib">
+      <CLASSES />
+      <SOURCES>
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/sass/lib/stubs/sass_functions.scss" />
+      </SOURCES>
+    </library>
+  </component>
+</application>

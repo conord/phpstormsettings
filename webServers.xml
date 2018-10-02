@@ -1,0 +1,81 @@
+<application>
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="dc1e4532-1d6e-44cd-b6cb-e17cb7542c4a" name="3dcart" url="http://localhost/">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
+      <webServer id="dff3b125-a989-47f4-adfc-cb44950ae884" name="NetImpact" url="http://netimpact.fissiondev.com/">
+        <fileTransfer mountedRoot="$USER_HOME$/dev/netimpactproject" accessType="MOUNT" />
+      </webServer>
+      <webServer id="d747974f-1b3f-4c69-8284-41ff0edd9135" name="CraftCMS" url="http://craftcms-local.com">
+        <fileTransfer accessType="LOCAL" />
+      </webServer>
+      <webServer id="3e330b07-8eb2-4052-b4d4-a1772a9b666d" name="PHPDev" url="http://aaoms-local.com">
+        <fileTransfer mountedRoot="/Volumes/nerd" accessType="MOUNT" />
+      </webServer>
+      <webServer id="25b9c052-cb70-4795-ab58-64052e93d295" name="LONDON" url="http://london.nerderylabs.com">
+        <fileTransfer host="london.nerderylabs.com" port="22" accessType="SFTP" username="cdoyle" password="dfd2dfcedfe0dfe7df9bdf9edfc4df9a">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="6d97b2a7-cdfc-4505-8226-11e04308e33d" name="Unonimous" url="http://unonimous.dev">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
+      <webServer id="79728cf0-7640-4cb9-a7a8-f0a16a67d94a" name="Unonimous (1)" url="http://unonimous.dev">
+        <fileTransfer accessType="LOCAL" />
+      </webServer>
+      <webServer id="8a3039c5-d4c7-4621-9bc4-d6a2da94ca48" name="Giftbar" url="http://giftbar.dev">
+        <fileTransfer accessType="LOCAL" />
+      </webServer>
+      <webServer id="2f2f5f37-5386-4aba-9a15-e301e7ed7009" name="Giftbar Staging" url="http://giftbar:gb@chicago-staging.giftbar.com/">
+        <fileTransfer host="104.130.9.160" port="22" rootFolder="/var/www/www-staging/" accessType="SFTP" username="root" password="dfe0dfccdff9dfc3dfdbdf9cdfdcdfd2dff9dfeedfc3dfd2">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="aa5bf5eb-b0e0-4c50-b891-2b137ec9eab8" name="Giftbar Staging 1" url="http://chicago-staging.giftbar.com/order/customize">
+        <fileTransfer host="104.130.9.160" port="22" rootFolder="/var/www/www-staging.giftbar.com" accessType="SFTP" username="root">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="e6e4f243-b131-44ab-bcc9-1d59b56064b0" name="Giftbar staging 2" url="http://giftbar:gb@chicago-staging.giftbar.com/">
+        <fileTransfer host="104.130.9.160" port="22" privateKey="$USER_HOME$/.ssh/id_rsa" rootFolder="/var/www/www-staging.giftbar.com" accessType="SFTP" keyPair="true" username="root">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="90a8cfc1-e84e-4045-93d4-f279dd87b14e" name="London NEW" url="http://london.nerderylabs.com/~cdoyle/">
+        <fileTransfer host="london.nerderylabs.com" port="22" privateKey="$USER_HOME$/.ssh/id_rsa" rootFolder="/home/cdoyle/public_html/watchfire" accessType="SFTP" keyPair="true" username="cdoyle">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="559791b0-2870-4c2d-8583-cae74de32bc1" name="ITA DEV" url="http://illinoistech.dev/">
+        <fileTransfer host="illinoistech.dev" port="22" privateKey="$USER_HOME$/dev/ita/puphpet/files/dot/ssh/id_rsa" rootFolder="/var/www" accessType="SFTP" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="01c0ba51-0af0-496c-b5c0-0a853893fab9" name="TPC Local" url="http://tpckpi.dev">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
+      <webServer id="a01dc017-9171-4126-8ff0-b6387bc80840" name="Poetry" url="http://poetryfoundation.craft.test">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
+    </option>
+  </component>
+</application>

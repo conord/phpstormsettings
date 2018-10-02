@@ -1,0 +1,13 @@
+<templateSet group="xsl">
+  <template name="atsm" value="&lt;xsl:apply-templates select=&quot;$SELECT$&quot; mode=&quot;$MODE$&quot;/&gt;$END$" description="Apply-Templates-Select-Mode." toReformat="false" toShortenFQNames="true">
+    <variable name="SELECT" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="MODE" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="COMPLETION" value="false" />
+      <option name="JAVA_CODE" value="false" />
+      <option name="JAVA_COMMENT" value="false" />
+      <option name="JAVA_STRING" value="false" />
+      <option name="JSP" value="false" />
+    </context>
+  </template>
+</templateSet>
