@@ -1,38 +1,11 @@
 <application>
   <component name="FindSettings">
+    <option name="caseSensitive" value="true" />
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="skipResultsWithOneUsage" value="true" />
     <option name="SKIP_RESULTS_WHEN_ONE_USAGE" value="true" />
+    <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <recentFileMasks>
-      <mask>*.properties</mask>
-      <mask>*.jsp</mask>
-      <mask>*.xml</mask>
-      <mask>*.java</mask>
-      <mask>*.js</mask>
-      <mask>*.as</mask>
-      <mask>*.css</mask>
-      <mask>*.mxml</mask>
-      <mask>twig</mask>
-      <mask>twi</mask>
-      <mask>tw</mask>
-      <mask>t</mask>
-      <mask>h</mask>
-      <mask>htm</mask>
-      <mask>,html</mask>
-      <mask>html</mask>
-      <mask>.html</mask>
-      <mask>*.ashtml</mask>
-      <mask>*.ahtml</mask>
-      <mask>*.twi</mask>
-      <mask>*.twig</mask>
-      <mask>*.tw</mask>
-      <mask>*.t</mask>
-      <mask>*.</mask>
-      <mask>*.h</mask>
-      <mask>*.html</mask>
-      <mask>*.php</mask>
-    </recentFileMasks>
   </component>
 </application>
