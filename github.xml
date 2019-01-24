@@ -1,4 +1,9 @@
 <application>
+  <component name="GithubAccounts">
+    <account id="03bfae72-d189-43fd-b827-f89952183e61" name="conord">
+      <server host="github.com" />
+    </account>
+  </component>
   <component name="GithubSettings">
     <option name="LOGIN" value="conord" />
     <option name="AUTH_TYPE" value="BASIC" />
