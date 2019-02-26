@@ -33,17 +33,15 @@
   <HTMLCodeStyleSettings>
     <option name="HTML_ATTRIBUTE_WRAP" value="0" />
   </HTMLCodeStyleSettings>
-  <JSCodeStyleSettings>
+  <JSCodeStyleSettings version="0">
     <option name="ALIGN_OBJECT_PROPERTIES" value="2" />
   </JSCodeStyleSettings>
   <MarkdownNavigatorCodeStyleSettings>
     <option name="RIGHT_MARGIN" value="72" />
   </MarkdownNavigatorCodeStyleSettings>
   <PHPCodeStyleSettings>
-    <option name="ALIGN_KEY_VALUE_PAIRS" value="true" />
     <option name="ALIGN_PHPDOC_PARAM_NAMES" value="true" />
     <option name="ALIGN_PHPDOC_COMMENTS" value="true" />
-    <option name="ALIGN_ASSIGNMENTS" value="true" />
     <option name="COMMA_AFTER_LAST_ARRAY_ELEMENT" value="true" />
     <option name="PHPDOC_BLANK_LINE_BEFORE_TAGS" value="true" />
     <option name="PHPDOC_BLANK_LINES_AROUND_PARAMETERS" value="true" />
@@ -53,30 +51,6 @@
     <option name="FORCE_SHORT_DECLARATION_ARRAY_STYLE" value="true" />
     <option name="PHPDOC_USE_FQCN" value="true" />
   </PHPCodeStyleSettings>
-  <DBN-PSQL>
-    <case-options enabled="false">
-      <option name="KEYWORD_CASE" value="lower" />
-      <option name="FUNCTION_CASE" value="lower" />
-      <option name="PARAMETER_CASE" value="lower" />
-      <option name="DATATYPE_CASE" value="lower" />
-      <option name="OBJECT_CASE" value="preserve" />
-    </case-options>
-    <formatting-settings enabled="false" />
-  </DBN-PSQL>
-  <DBN-SQL>
-    <case-options enabled="false">
-      <option name="KEYWORD_CASE" value="lower" />
-      <option name="FUNCTION_CASE" value="lower" />
-      <option name="PARAMETER_CASE" value="lower" />
-      <option name="DATATYPE_CASE" value="lower" />
-      <option name="OBJECT_CASE" value="preserve" />
-    </case-options>
-    <formatting-settings enabled="false">
-      <option name="STATEMENT_SPACING" value="one_line" />
-      <option name="CLAUSE_CHOP_DOWN" value="chop_down_if_statement_long" />
-      <option name="ITERATION_ELEMENTS_WRAPPING" value="chop_down_if_not_single" />
-    </formatting-settings>
-  </DBN-SQL>
   <XML>
     <option name="XML_LEGACY_SETTINGS_IMPORTED" value="true" />
   </XML>
@@ -105,13 +79,17 @@
   </codeStyleSettings>
   <codeStyleSettings language="PHP">
     <option name="RIGHT_MARGIN" value="160" />
+    <option name="KEEP_LINE_BREAKS" value="false" />
     <option name="KEEP_FIRST_COLUMN_COMMENT" value="false" />
     <option name="KEEP_CONTROL_STATEMENT_IN_ONE_LINE" value="false" />
     <option name="BLANK_LINES_AFTER_PACKAGE" value="1" />
     <option name="BLANK_LINES_AROUND_FIELD" value="1" />
     <option name="BLANK_LINES_AFTER_CLASS_HEADER" value="1" />
     <option name="ALIGN_MULTILINE_PARAMETERS" value="false" />
+    <option name="ALIGN_MULTILINE_FOR" value="false" />
     <option name="SPACE_AFTER_TYPE_CAST" value="true" />
+    <option name="CALL_PARAMETERS_RPAREN_ON_NEXT_LINE" value="true" />
+    <option name="METHOD_PARAMETERS_RPAREN_ON_NEXT_LINE" value="true" />
     <option name="METHOD_CALL_CHAIN_WRAP" value="5" />
     <option name="ARRAY_INITIALIZER_WRAP" value="5" />
     <option name="ARRAY_INITIALIZER_LBRACE_ON_NEXT_LINE" value="true" />
