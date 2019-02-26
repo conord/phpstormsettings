@@ -1,6 +1,14 @@
 <application>
   <component name="KeyPromoterXStatistic">
     <option name="statistics">
+      <Statistic Action="Close">
+        <Item>
+          <IdeaActionID>CloseContent</IdeaActionID>
+          <ShortCut>'⌘W'</ShortCut>
+          <Description>Close</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Collapse">
         <Item>
           <IdeaActionID>CollapseRegion</IdeaActionID>
@@ -78,7 +86,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>315</Count>
+          <Count>318</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete...">
@@ -102,7 +110,7 @@
           <IdeaActionID>FindInPath</IdeaActionID>
           <ShortCut>'⇧⌘F'</ShortCut>
           <Description>Find in Path...</Description>
-          <Count>105</Count>
+          <Count>106</Count>
         </Item>
       </Statistic>
       <Statistic Action="Hide All Windows">
