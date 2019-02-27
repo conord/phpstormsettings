@@ -94,7 +94,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>321</Count>
+          <Count>322</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete...">
@@ -223,6 +223,14 @@
           <ShortCut>'⌥F9'</ShortCut>
           <Description>Run to Cursor</Description>
           <Count>10</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Show All Affected Files">
+        <Item>
+          <IdeaActionID>Vcs.Log.ShowAllAffected</IdeaActionID>
+          <ShortCut>'⌃⌘A'</ShortCut>
+          <Description>Show All Affected Files</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Step Out">
