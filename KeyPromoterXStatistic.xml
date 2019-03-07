@@ -190,7 +190,7 @@
           <IdeaActionID>Resume</IdeaActionID>
           <ShortCut>'⌥⌘R' or 'F9'</ShortCut>
           <Description>Resume Program</Description>
-          <Count>196</Count>
+          <Count>197</Count>
         </Item>
       </Statistic>
       <Statistic Action="Revert...">
@@ -254,7 +254,7 @@
           <IdeaActionID>StepOver</IdeaActionID>
           <ShortCut>'F8'</ShortCut>
           <Description>Step Over</Description>
-          <Count>238</Count>
+          <Count>239</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'The Wealth Pool'">
