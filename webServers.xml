@@ -76,6 +76,9 @@
       <webServer id="a01dc017-9171-4126-8ff0-b6387bc80840" name="Poetry" url="http://poetryfoundation.craft.test">
         <fileTransfer port="0" accessType="LOCAL" />
       </webServer>
+      <webServer id="736db13a-3816-46d9-a2ab-e4c2a9b0822b" name="Local" url="http://localhost:8000">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
     </option>
   </component>
 </application>
