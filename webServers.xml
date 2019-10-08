@@ -79,6 +79,9 @@
       <webServer id="736db13a-3816-46d9-a2ab-e4c2a9b0822b" name="Local" url="http://localhost:8000">
         <fileTransfer port="0" accessType="LOCAL" />
       </webServer>
+      <webServer id="8805524e-a12f-4a0c-82b0-895cacae008a" name="CCA Audit Tool" url="http://cca-audit.test">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
     </option>
   </component>
 </application>
