@@ -1,9 +1,6 @@
 <application>
   <component name="WebServers">
     <option name="servers">
-      <webServer id="dc1e4532-1d6e-44cd-b6cb-e17cb7542c4a" name="3dcart" url="http://localhost/">
-        <fileTransfer port="0" accessType="LOCAL" />
-      </webServer>
       <webServer id="dff3b125-a989-47f4-adfc-cb44950ae884" name="NetImpact" url="http://netimpact.fissiondev.com/">
         <fileTransfer mountedRoot="$USER_HOME$/dev/netimpactproject" accessType="MOUNT" />
       </webServer>
@@ -20,12 +17,6 @@
           </advancedOptions>
           <option name="port" value="22" />
         </fileTransfer>
-      </webServer>
-      <webServer id="6d97b2a7-cdfc-4505-8226-11e04308e33d" name="Unonimous" url="http://unonimous.dev">
-        <fileTransfer port="0" accessType="LOCAL" />
-      </webServer>
-      <webServer id="79728cf0-7640-4cb9-a7a8-f0a16a67d94a" name="Unonimous (1)" url="http://unonimous.dev">
-        <fileTransfer accessType="LOCAL" />
       </webServer>
       <webServer id="8a3039c5-d4c7-4621-9bc4-d6a2da94ca48" name="Giftbar" url="http://giftbar.dev">
         <fileTransfer accessType="LOCAL" />
@@ -69,12 +60,6 @@
           </advancedOptions>
           <option name="port" value="22" />
         </fileTransfer>
-      </webServer>
-      <webServer id="01c0ba51-0af0-496c-b5c0-0a853893fab9" name="TPC Local" url="http://tpckpi.dev">
-        <fileTransfer port="0" accessType="LOCAL" />
-      </webServer>
-      <webServer id="a01dc017-9171-4126-8ff0-b6387bc80840" name="Poetry" url="http://poetryfoundation.craft.test">
-        <fileTransfer port="0" accessType="LOCAL" />
       </webServer>
       <webServer id="736db13a-3816-46d9-a2ab-e4c2a9b0822b" name="Local" url="http://localhost:8000">
         <fileTransfer port="0" accessType="LOCAL" />
