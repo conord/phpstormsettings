@@ -67,6 +67,9 @@
       <webServer id="8805524e-a12f-4a0c-82b0-895cacae008a" name="CCA Audit Tool" url="http://cca-audit.test">
         <fileTransfer port="0" accessType="LOCAL" />
       </webServer>
+      <webServer id="526381a4-df6b-4c65-ad34-f8258c406ce6" name="csp.test" url="http://csp.test">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
     </option>
   </component>
 </application>
