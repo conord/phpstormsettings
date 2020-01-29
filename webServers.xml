@@ -70,6 +70,9 @@
       <webServer id="526381a4-df6b-4c65-ad34-f8258c406ce6" name="csp.test" url="http://csp.test">
         <fileTransfer port="0" accessType="LOCAL" />
       </webServer>
+      <webServer id="399b6d9e-69e6-4540-abf9-454d8985fa29" name="local_php" url="http://mailgun.test">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
     </option>
   </component>
 </application>
