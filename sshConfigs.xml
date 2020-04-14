@@ -6,6 +6,12 @@
       <sshConfig host="104.130.9.160" id="b79a3503-119d-4734-9e56-c40b2f9cc8fa" keyPath="$USER_HOME$/.ssh/id_rsa" port="22" username="root" />
       <sshConfig host="london.nerderylabs.com" id="8efc75e8-9b96-496b-80e1-bd199b20fed5" keyPath="$USER_HOME$/.ssh/id_rsa" port="22" username="cdoyle" />
       <sshConfig host="illinoistech.dev" id="bbde4692-b76b-4a78-b3e0-bc17233c788c" keyPath="$USER_HOME$/dev/ita/puphpet/files/dot/ssh/id_rsa" port="22" />
+      <sshConfig authType="PASSWORD" host="london.nerderylabs.com" id="e0de3594-9a2c-4403-9337-2ae4b267cf85" port="22" customName="LONDON" nameFormat="CUSTOM" username="cdoyle" />
+      <sshConfig authType="PASSWORD" host="104.130.9.160" id="9f1d6d32-ada5-4412-beb2-bb333144b93e" port="22" customName="Giftbar Staging" nameFormat="CUSTOM" username="root" />
+      <sshConfig authType="PASSWORD" host="104.130.9.160" id="d0fc1ab1-56ee-4b17-95b4-f934d6a9531e" port="22" customName="Giftbar Staging 1" nameFormat="CUSTOM" username="root" />
+      <sshConfig host="104.130.9.160" id="56ff4a3c-75a1-4550-90b1-3baf0bdef189" keyPath="$USER_HOME$/.ssh/id_rsa" port="22" customName="Giftbar staging 2" nameFormat="CUSTOM" username="root" />
+      <sshConfig host="london.nerderylabs.com" id="64871af6-50c8-4492-8efa-189e0297ff0d" keyPath="$USER_HOME$/.ssh/id_rsa" port="22" customName="London NEW" nameFormat="CUSTOM" username="cdoyle" />
+      <sshConfig host="illinoistech.dev" id="cb051b1f-70c4-4f24-aafa-fee05bd801ea" keyPath="$USER_HOME$/dev/ita/puphpet/files/dot/ssh/id_rsa" port="22" customName="ITA DEV" nameFormat="CUSTOM" />
     </configs>
   </component>
 </application>
