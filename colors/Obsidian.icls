@@ -334,15 +334,6 @@
         <option name="ERROR_STRIPE_COLOR" value="ccccff" />
       </value>
     </option>
-    <option name="IGNORE.BRACKET" baseAttributes="" />
-    <option name="IGNORE.COMMENT" baseAttributes="" />
-    <option name="IGNORE.HEADER" baseAttributes="" />
-    <option name="IGNORE.NEGATION" baseAttributes="" />
-    <option name="IGNORE.SECTION" baseAttributes="" />
-    <option name="IGNORE.SLASH" baseAttributes="" />
-    <option name="IGNORE.SYNTAX" baseAttributes="" />
-    <option name="IGNORE.UNUSED_ENTRY" baseAttributes="" />
-    <option name="IGNORE.VALUE" baseAttributes="" />
     <option name="INDENT_RAINBOW_COLOR_1">
       <value>
         <option name="BACKGROUND" value="373f34" />
