@@ -4,6 +4,9 @@
       <webServer id="8e3ab17c-34da-464a-a562-724ee5bb1196" name="Valet" url="http://csp.test">
         <fileTransfer accessType="LOCAL" port="0" />
       </webServer>
+      <webServer id="2940c575-0b20-44d4-8102-2e6821c08405" name="localhost" url="http://localhost">
+        <fileTransfer accessType="LOCAL" port="0" />
+      </webServer>
     </option>
   </component>
 </application>
