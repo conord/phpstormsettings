@@ -4,7 +4,7 @@
     <property name="created">2016-09-27T19:12:22</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2016.3.0.0</property>
-    <property name="modified">2021-02-08T10:18:42</property>
+    <property name="modified">2021-02-10T10:44:03</property>
     <property name="originalScheme">VibrantInk</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.0" />
@@ -965,7 +965,7 @@
     <option name="JS.COMMA">
       <value />
     </option>
-    <option name="JS.GLOBAL_VARIABLE" baseAttributes="DEFAULT_GLOBAL_VARIABLE" />
+    <option name="JS.GLOBAL_VARIABLE" baseAttributes="" />
     <option name="JS.INSTANCE_MEMBER_FUNCTION">
       <value>
         <option name="FOREGROUND" value="979748" />
