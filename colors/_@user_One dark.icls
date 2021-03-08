@@ -3,7 +3,7 @@
     <property name="created">2021-01-29T13:35:40</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2020.3.2.0.0</property>
-    <property name="modified">2021-02-19T13:03:48</property>
+    <property name="modified">2021-03-08T07:54:06</property>
     <property name="originalScheme">One dark</property>
   </metaInfo>
   <colors>
@@ -1387,7 +1387,7 @@
         <option name="FOREGROUND" value="56b6c2" />
       </value>
     </option>
-    <option name="REGEXP.ESC_CHARACTER" baseAttributes="DEFAULT_VALID_STRING_ESCAPE" />
+    <option name="REGEXP.ESC_CHARACTER" baseAttributes="" />
     <option name="REGEXP.META">
       <value>
         <option name="FOREGROUND" value="c678dd" />
@@ -1398,8 +1398,8 @@
         <option name="FOREGROUND" value="56b6c2" />
       </value>
     </option>
-    <option name="REGEXP.QUOTE_CHARACTER" baseAttributes="DEFAULT_VALID_STRING_ESCAPE" />
-    <option name="REGEXP.REDUNDANT_ESCAPE" baseAttributes="DEFAULT_VALID_STRING_ESCAPE" />
+    <option name="REGEXP.QUOTE_CHARACTER" baseAttributes="" />
+    <option name="REGEXP.REDUNDANT_ESCAPE" baseAttributes="" />
     <option name="REST.EXPLICIT">
       <value>
         <option name="FOREGROUND" value="c678dd" />
