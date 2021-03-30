@@ -4,7 +4,7 @@
     <property name="created">2016-09-27T19:12:22</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2016.3.0.0</property>
-    <property name="modified">2021-03-25T11:05:48</property>
+    <property name="modified">2021-03-30T11:01:00</property>
     <property name="originalScheme">All hallow's eve</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.0" />
@@ -98,7 +98,7 @@
         <option name="FOREGROUND" value="3387cc" />
       </value>
     </option>
-    <option name="COFFEESCRIPT.FUNCTION_NAME" baseAttributes="" />
+    <option name="COFFEESCRIPT.FUNCTION_NAME" baseAttributes="DEFAULT_FUNCTION_DECLARATION" />
     <option name="COFFEESCRIPT.GLOBAL_VARIABLE">
       <value>
         <option name="FOREGROUND" value="ffffff" />
@@ -773,7 +773,7 @@
     </option>
     <option name="INDENT_RAINBOW_COLOR_1">
       <value>
-        <option name="BACKGROUND" value="121205" />
+        <option name="BACKGROUND" value="121204" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_COLOR_2">
@@ -788,12 +788,12 @@
     </option>
     <option name="INDENT_RAINBOW_COLOR_4">
       <value>
-        <option name="BACKGROUND" value="61111" />
+        <option name="BACKGROUND" value="51010" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_ERROR">
       <value>
-        <option name="BACKGROUND" value="270a0a" />
+        <option name="BACKGROUND" value="260909" />
       </value>
     </option>
     <option name="INFO_ATTRIBUTES">
