@@ -3,6 +3,7 @@
   <option name="LINE_SPACING" value="1.0" />
   <option name="EDITOR_FONT_SIZE" value="14" />
   <option name="EDITOR_FONT_NAME" value="JetBrains Mono" />
+  <option name="EDITOR_LIGATURES" value="true" />
   <colors>
     <option name="ADDED_LINES_COLOR" value="9933" />
     <option name="CARET_COLOR" value="c0cad1" />
@@ -336,17 +337,17 @@
     </option>
     <option name="INDENT_RAINBOW_COLOR_1">
       <value>
-        <option name="BACKGROUND" value="373f34" />
+        <option name="BACKGROUND" value="373e34" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_COLOR_2">
       <value>
-        <option name="BACKGROUND" value="2e3f38" />
+        <option name="BACKGROUND" value="2e3e38" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_COLOR_3">
       <value>
-        <option name="BACKGROUND" value="373641" />
+        <option name="BACKGROUND" value="373541" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_COLOR_4">
@@ -356,7 +357,7 @@
     </option>
     <option name="INDENT_RAINBOW_ERROR">
       <value>
-        <option name="BACKGROUND" value="432b2d" />
+        <option name="BACKGROUND" value="422b2d" />
       </value>
     </option>
     <option name="INFO_ATTRIBUTES">

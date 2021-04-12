@@ -7,6 +7,9 @@
       <webServer id="2940c575-0b20-44d4-8102-2e6821c08405" name="localhost" url="http://localhost">
         <fileTransfer accessType="LOCAL" port="0" />
       </webServer>
+      <webServer id="1fc48112-9214-4f03-868f-b3e096ade22f" name="Boardlead2" url="http://boardlead2.test">
+        <fileTransfer accessType="LOCAL" port="0" />
+      </webServer>
     </option>
   </component>
 </application>
