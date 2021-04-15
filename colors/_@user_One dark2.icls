@@ -3,7 +3,7 @@
     <property name="created">2021-03-16T14:16:43</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2021.1.0.0</property>
-    <property name="modified">2021-04-15T14:48:03</property>
+    <property name="modified">2021-04-15T14:48:34</property>
     <property name="originalScheme">One dark</property>
   </metaInfo>
   <colors>
@@ -83,8 +83,8 @@
         <option name="FOREGROUND" value="61afef" />
       </value>
     </option>
-    <option name="BASH.HERE_DOC_END" baseAttributes="DEFAULT_KEYWORD" />
-    <option name="BASH.HERE_DOC_START" baseAttributes="DEFAULT_KEYWORD" />
+    <option name="BASH.HERE_DOC_END" baseAttributes="" />
+    <option name="BASH.HERE_DOC_START" baseAttributes="" />
     <option name="BASH.SHEBANG">
       <value>
         <option name="FOREGROUND" value="5c6370" />
@@ -362,7 +362,7 @@
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
-    <option name="CUSTOM_KEYWORD1_ATTRIBUTES" baseAttributes="DEFAULT_KEYWORD" />
+    <option name="CUSTOM_KEYWORD1_ATTRIBUTES" baseAttributes="" />
     <option name="CUSTOM_KEYWORD2_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="d19a66" />
@@ -378,8 +378,8 @@
         <option name="FOREGROUND" value="61afef" />
       </value>
     </option>
-    <option name="CUSTOM_STRING_ATTRIBUTES" baseAttributes="DEFAULT_STRING" />
-    <option name="CUSTOM_VALID_STRING_ESCAPE_ATTRIBUTES" baseAttributes="DEFAULT_VALID_STRING_ESCAPE" />
+    <option name="CUSTOM_STRING_ATTRIBUTES" baseAttributes="" />
+    <option name="CUSTOM_VALID_STRING_ESCAPE_ATTRIBUTES" baseAttributes="" />
     <option name="Class" baseAttributes="" />
     <option name="Clojure Atom">
       <value>
@@ -1392,7 +1392,7 @@
         <option name="FOREGROUND" value="56b6c2" />
       </value>
     </option>
-    <option name="REGEXP.ESC_CHARACTER" baseAttributes="DEFAULT_VALID_STRING_ESCAPE" />
+    <option name="REGEXP.ESC_CHARACTER" baseAttributes="" />
     <option name="REGEXP.META">
       <value>
         <option name="FOREGROUND" value="c678dd" />
@@ -1403,8 +1403,8 @@
         <option name="FOREGROUND" value="56b6c2" />
       </value>
     </option>
-    <option name="REGEXP.QUOTE_CHARACTER" baseAttributes="DEFAULT_VALID_STRING_ESCAPE" />
-    <option name="REGEXP.REDUNDANT_ESCAPE" baseAttributes="DEFAULT_VALID_STRING_ESCAPE" />
+    <option name="REGEXP.QUOTE_CHARACTER" baseAttributes="" />
+    <option name="REGEXP.REDUNDANT_ESCAPE" baseAttributes="" />
     <option name="REST.EXPLICIT">
       <value>
         <option name="FOREGROUND" value="c678dd" />
@@ -1611,8 +1611,8 @@
         <option name="FOREGROUND" value="d19a66" />
       </value>
     </option>
-    <option name="SQL_OUTER_QUERY_COLUMN" baseAttributes="SQL_COLUMN" />
-    <option name="SQL_SYNTHETIC_ENTITY" baseAttributes="DEFAULT_PREDEFINED_SYMBOL" />
+    <option name="SQL_OUTER_QUERY_COLUMN" baseAttributes="" />
+    <option name="SQL_SYNTHETIC_ENTITY" baseAttributes="" />
     <option name="STATIC_FINAL_FIELD_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="d19a66" />
