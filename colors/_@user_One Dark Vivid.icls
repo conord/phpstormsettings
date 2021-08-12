@@ -3,7 +3,7 @@
     <property name="created">2021-03-16T14:15:36</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2021.1.0.0</property>
-    <property name="modified">2021-08-11T20:00:25</property>
+    <property name="modified">2021-08-12T10:15:23</property>
     <property name="originalScheme">One Dark Vivid</property>
   </metaInfo>
   <colors>
@@ -2200,7 +2200,7 @@
         <option name="FOREGROUND" value="89ca78" />
       </value>
     </option>
-    <option name="XPATH.XPATH_VARIABLE" baseAttributes="" />
+    <option name="XPATH.XPATH_VARIABLE" baseAttributes="DEFAULT_LOCAL_VARIABLE" />
     <option name="YAML_ANCHOR">
       <value>
         <option name="FOREGROUND" value="e5c07b" />
