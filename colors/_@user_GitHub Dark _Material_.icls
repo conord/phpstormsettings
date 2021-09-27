@@ -4,7 +4,7 @@
     <property name="created">2021-01-29T13:35:40</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2020.3.2.0.0</property>
-    <property name="modified">2021-09-21T09:55:57</property>
+    <property name="modified">2021-09-27T12:19:43</property>
     <property name="originalScheme">GitHub Dark (Material)</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.4" />
@@ -379,8 +379,8 @@
         <option name="FOREGROUND" value="b392f0" />
       </value>
     </option>
-    <option name="CUSTOM_STRING_ATTRIBUTES" baseAttributes="" />
-    <option name="CUSTOM_VALID_STRING_ESCAPE_ATTRIBUTES" baseAttributes="" />
+    <option name="CUSTOM_STRING_ATTRIBUTES" baseAttributes="DEFAULT_STRING" />
+    <option name="CUSTOM_VALID_STRING_ESCAPE_ATTRIBUTES" baseAttributes="DEFAULT_VALID_STRING_ESCAPE" />
     <option name="Class">
       <value>
         <option name="FOREGROUND" value="b392f0" />
@@ -656,7 +656,7 @@
         <option name="EFFECT_TYPE" value="2" />
       </value>
     </option>
-    <option name="GHERKIN_REGEXP_PARAMETER" baseAttributes="" />
+    <option name="GHERKIN_REGEXP_PARAMETER" baseAttributes="DEFAULT_PARAMETER" />
     <option name="GIT_TOOLBOX.CHANGED_COUNT_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="ffab70" />
@@ -2139,7 +2139,7 @@
     <option name="SPEL.BACKGROUND">
       <value />
     </option>
-    <option name="SQL_OUTER_QUERY_COLUMN" baseAttributes="" />
+    <option name="SQL_OUTER_QUERY_COLUMN" baseAttributes="SQL_COLUMN" />
     <option name="SQUARE_BRACKETS_RAINBOW_COLOR0">
       <value>
         <option name="FOREGROUND" value="f97583" />
