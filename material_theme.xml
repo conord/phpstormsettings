@@ -1,5 +1,8 @@
 <application>
   <component name="MaterialThemeConfig">
+    <option name="compactMenus" value="true" />
+    <option name="compactStatusBar" value="true" />
+    <option name="compactTables" value="true" />
     <option name="highlightColorEnabled" value="true" />
     <option name="premium" value="true" />
     <option name="accentScrollbars" value="false" />
@@ -16,6 +19,6 @@
     <option name="highlightColor" value="80cbc4" />
     <option name="selectedTheme" value="NATIVE" />
     <option name="userId" value="679b4e4:164c7fc4ef3:-7fff" />
-    <option name="version" value="6.1.1" />
+    <option name="version" value="6.9.1" />
   </component>
 </application>
