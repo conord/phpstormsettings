@@ -1,10 +1,8 @@
 <application>
   <component name="UISettings">
     <option name="DND_WITH_PRESSED_ALT_ONLY" value="true" />
-    <option name="EDITOR_AA_TYPE" value="Greyscale" />
     <option name="FULL_PATHS_IN_TITLE_BAR" value="true" />
     <option name="HIDE_TABS_IF_NEED" value="false" />
-    <option name="IDE_AA_TYPE" value="Greyscale" />
     <option name="OPEN_TABS_AT_THE_END" value="true" />
     <option name="SHOW_EDITOR_TOOLTIP" value="false" />
     <option name="SHOW_TOOL_WINDOW_NUMBERS" value="true" />
