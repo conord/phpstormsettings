@@ -3,7 +3,7 @@
     <property name="created">2021-03-16T14:15:36</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2021.1.0.0</property>
-    <property name="modified">2021-12-02T08:43:09</property>
+    <property name="modified">2022-01-03T13:59:31</property>
     <property name="originalScheme">One Dark Vivid Italic</property>
   </metaInfo>
   <colors>
@@ -25,7 +25,20 @@
     <option name="DIFF_SEPARATORS_BACKGROUND" value="21252b" />
     <option name="DOCUMENTATION_COLOR" value="3d424b" />
     <option name="ERROR_HINT" value="781732" />
+    <option name="FILESTATUS_ADDED" value="c3e887" />
+    <option name="FILESTATUS_DELETED" value="f77669" />
+    <option name="FILESTATUS_HIJACKED" value="ffcb6b" />
     <option name="FILESTATUS_IDEA_FILESTATUS_IGNORED" value="4f575f" />
+    <option name="FILESTATUS_IDEA_SVN_FILESTATUS_EXTERNAL" value="72a038" />
+    <option name="FILESTATUS_IDEA_SVN_FILESTATUS_OBSTRUCTED" value="727238" />
+    <option name="FILESTATUS_IDEA_SVN_REPLACED" value="629755" />
+    <option name="FILESTATUS_MODIFIED" value="80cbc4" />
+    <option name="FILESTATUS_NOT_CHANGED_IMMEDIATE" value="80cbc4" />
+    <option name="FILESTATUS_NOT_CHANGED_RECURSIVE" value="80cbc4" />
+    <option name="FILESTATUS_OBSOLETE" value="ffcb6b" />
+    <option name="FILESTATUS_SUPPRESSED" value="546e7a" />
+    <option name="FILESTATUS_SWITCHED" value="f77669" />
+    <option name="FILESTATUS_UNKNOWN" value="f77669" />
     <option name="FOLDED_TEXT_BORDER_COLOR" value="" />
     <option name="GUTTER_BACKGROUND" value="282c34" />
     <option name="HTML_TAG_TREE_LEVEL0" value="f44747" />
@@ -176,7 +189,7 @@
         <option name="FOREGROUND" value="d55fde" />
       </value>
     </option>
-    <option name="COFFEESCRIPT.GLOBAL_VARIABLE" baseAttributes="" />
+    <option name="COFFEESCRIPT.GLOBAL_VARIABLE" baseAttributes="JS.GLOBAL_VARIABLE" />
     <option name="COFFEESCRIPT.HEREGEX_CONTENT">
       <value>
         <option name="FOREGROUND" value="d19a66" />
@@ -911,7 +924,7 @@
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
-    <option name="HAML_FILTER_CONTENT" baseAttributes="" />
+    <option name="HAML_FILTER_CONTENT" baseAttributes="DEFAULT_TEMPLATE_LANGUAGE_COLOR" />
     <option name="HAML_ID">
       <value>
         <option name="FOREGROUND" value="61afef" />
@@ -940,7 +953,7 @@
         <option name="FOREGROUND" value="bbbbbb" />
       </value>
     </option>
-    <option name="HAML_XHTML" baseAttributes="" />
+    <option name="HAML_XHTML" baseAttributes="DEFAULT_TEMPLATE_LANGUAGE_COLOR" />
     <option name="HTML_ATTRIBUTE_NAME">
       <value>
         <option name="FOREGROUND" value="d19a66" />
@@ -1586,7 +1599,7 @@
     <option name="PHP_SCRIPTING_BACKGROUND">
       <value />
     </option>
-    <option name="PHP_VAR" baseAttributes="" />
+    <option name="PHP_VAR" baseAttributes="DEFAULT_LOCAL_VARIABLE" />
     <option name="PROPERTIES.INVALID_STRING_ESCAPE">
       <value>
         <option name="FOREGROUND" value="2bbac5" />
@@ -1765,7 +1778,7 @@
         <option name="BACKGROUND" value="3d424b" />
       </value>
     </option>
-    <option name="REST.INLINE" baseAttributes="" />
+    <option name="REST.INLINE" baseAttributes="DEFAULT_IDENTIFIER" />
     <option name="REST.INTERPRETED">
       <value>
         <option name="BACKGROUND" value="3c4b33" />
@@ -2231,7 +2244,7 @@
         <option name="FOREGROUND" value="89ca78" />
       </value>
     </option>
-    <option name="XPATH.XPATH_VARIABLE" baseAttributes="" />
+    <option name="XPATH.XPATH_VARIABLE" baseAttributes="DEFAULT_LOCAL_VARIABLE" />
     <option name="YAML_ANCHOR">
       <value>
         <option name="FOREGROUND" value="e5c07b" />
