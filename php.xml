@@ -166,4 +166,8 @@
       </interpreter>
     </phpInfoCache>
   </component>
+  <component name="PhpSmartKeysConfiguration">
+    <option name="findUsagesOfBaseMethod" value="true" />
+    <option name="promptFindUsagesOfBaseMethod" value="false" />
+  </component>
 </application>
