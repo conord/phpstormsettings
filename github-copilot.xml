@@ -1,6 +1,31 @@
 <application>
   <component name="github-copilot">
     <option name="signinNotificationShown" value="true" />
-    <option name="checkForUpdate" value="false" />
+    <disabledLanguages>
+      <option value="Blade" />
+      <option value="CSS" />
+      <option value="Cookie" />
+      <option value="DQL" />
+      <option value="Dockerfile" />
+      <option value="ECMAScript 6" />
+      <option value="GenericSQL" />
+      <option value="HTML" />
+      <option value="InjectablePHP" />
+      <option value="JSON" />
+      <option value="JavaScript" />
+      <option value="LESS" />
+      <option value="MariaDB" />
+      <option value="MySQL" />
+      <option value="MySQL based" />
+      <option value="PHP" />
+      <option value="PhpRegExp" />
+      <option value="PhpRegExpExtended" />
+      <option value="SASS" />
+      <option value="SCSS" />
+      <option value="SQL" />
+      <option value="Shell Script" />
+      <option value="Vue" />
+      <option value="VueJS" />
+    </disabledLanguages>
   </component>
 </application>
