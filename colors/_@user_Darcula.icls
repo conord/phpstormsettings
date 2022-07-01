@@ -4,13 +4,13 @@
     <property name="created">2016-09-27T19:12:22</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2016.3.0.0</property>
-    <property name="modified">2022-02-15T09:27:53</property>
+    <property name="modified">2022-07-01T13:25:18</property>
     <property name="originalScheme">Darcula</property>
     <property name="rainbow Default language">true</property>
   </metaInfo>
-  <option name="LINE_SPACING" value="1.0" />
+  <option name="LINE_SPACING" value="1.2" />
   <option name="EDITOR_FONT_SIZE" value="12" />
-  <option name="EDITOR_FONT_NAME" value="Menlo" />
+  <option name="EDITOR_FONT_NAME" value="Inconsolata" />
   <option name="EDITOR_LIGATURES" value="true" />
   <colors>
     <option name="FILESTATUS_ADDED" value="c3e887" />
@@ -35,6 +35,9 @@
     <option name="FILESTATUS_modifiedOutside" value="82aaff" />
   </colors>
   <attributes>
+    <option name="HTML_CODE">
+      <value />
+    </option>
     <option name="INDENT_RAINBOW_COLOR_1">
       <value>
         <option name="BACKGROUND" value="3a3a2c" />
@@ -58,6 +61,20 @@
     <option name="INDENT_RAINBOW_ERROR">
       <value>
         <option name="BACKGROUND" value="442828" />
+      </value>
+    </option>
+    <option name="KOTLIN_FUNCTION_LITERAL_BRACES_AND_ARROW">
+      <value>
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="KOTLIN_LABEL">
+      <value />
+    </option>
+    <option name="MATCHED_BRACE_ATTRIBUTES">
+      <value>
+        <option name="BACKGROUND" value="3b514d" />
+        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
   </attributes>
