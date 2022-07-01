@@ -18,7 +18,6 @@
   </component>
   <component name="PhpCodeFoldingSettings">
     <option name="COLLAPSE_PHP_TAGS" value="true" />
-    <option name="COLLAPSE_HERE_DOCS" value="true" />
   </component>
   <component name="TodoConfiguration">
     <pattern pattern="\btodo\b.*" />
@@ -26,5 +25,8 @@
   </component>
   <component name="XmlEditorOptions">
     <option name="showCssInlineColorPreview" value="true" />
+  </component>
+  <component name="XmlFoldingSettings">
+    <option name="COLLAPSE_DATA_URI" value="false" />
   </component>
 </application>
