@@ -1,0 +1,10 @@
+<application>
+  <component name="org.intellij.sdk.settings.AppSettingsState">
+    <option name="maxNumOfChars" value="35" />
+    <option name="verticalBorder" value="true" />
+    <option name="fontName" value="Serif" />
+    <option name="textKeepOldColor" value="true" />
+    <option name="textKeepOldTextColor" value="true" />
+    <option name="append3Dots" value="true" />
+  </component>
+</application>
