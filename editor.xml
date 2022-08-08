@@ -1,6 +1,7 @@
 <application>
   <component name="CodeFoldingSettings">
-    <option name="COLLAPSE_DOC_COMMENTS" value="true" />
+    <option name="COLLAPSE_IMPORTS" value="false" />
+    <option name="COLLAPSE_FILE_HEADER" value="false" />
   </component>
   <component name="CodeInsightSettings">
     <option name="selectAutopopupSuggestionsByChars" value="true" />
@@ -13,7 +14,6 @@
   </component>
   <component name="EditorSettings">
     <option name="IS_RIGHT_MARGIN_SHOWN" value="false" />
-    <option name="IS_FOLDING_OUTLINE_SHOWN" value="false" />
     <option name="IS_WHITESPACES_SHOWN" value="true" />
     <option name="IS_DND_ENABLED" value="false" />
   </component>
@@ -21,7 +21,7 @@
     <option name="lastViewedProviderKeyId" value="parameter.hints.old" />
   </component>
   <component name="PhpCodeFoldingSettings">
-    <option name="COLLAPSE_PHP_TAGS" value="true" />
+    <option name="COLLAPSE_IMPORTS" value="false" />
   </component>
   <component name="SqlEditorTabsSettings" SHORTEN_TAB_NAMES="false">
     <option name="shortenTabNames" value="false" />
