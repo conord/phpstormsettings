@@ -1,8 +1,22 @@
 <application>
   <component name="SonarLintGlobalSettings">
-    <option name="nodejsPath" value="" />
+    <option name="rulesByKey">
+      <map>
+        <entry key="Web:ImgWithoutAltCheck">
+          <value>
+            <Rule active="false" key="Web:ImgWithoutAltCheck" />
+          </value>
+        </entry>
+        <entry key="php:S107">
+          <value>
+            <Rule active="false" key="php:S107" />
+          </value>
+        </entry>
+      </map>
+    </option>
     <rules>
       <Rule active="false" key="Web:ImgWithoutAltCheck" />
+      <Rule active="false" key="php:S107" />
     </rules>
   </component>
 </application>
