@@ -1,9 +1,11 @@
 <application>
   <component name="LogHighlightingSettings">
     <parsingPatterns>
-      <LogParsingPattern name="NGINX" pattern="~(\d{4}/\d{2}/\d{2}) (\d{2}:\d{2}:\d{2}) \[(\w+)\] (.*?) client: (\d{1,3}.\d{1,3}.\d{1,3}.\d{1,3}), server: (.*?), request: &quot;(.*?)&quot;, host: &quot;(.*?)&quot;~" fullmatch="true" />
+      <LogParsingPattern name="NGINX" pattern="~(\d{4}/\d{2}/\d{2}) (\d{2}:\d{2}:\d{2}) \[(\w+)\] (.*?) client: (\d{1,3}.\d{1,3}.\d{1,3}.\d{1,3}), server: (.*?), request: &quot;(.*?)&quot;, host: &quot;(.*?)&quot;~" fullmatch="true" uuid="504f2e08-120b-44a7-8ad9-3a2281152f63" />
+      <LogParsingPattern name="All" pattern="^(.*?)(\s(.*?))?(\s(.*?))?(\s(.*?))?(\s(.*?))?(\s(.*?))?(\s(.*?))?$" uuid="db0779ce-9fd3-11ec-b909-0242ac120002" />
+      <LogParsingPattern name="Laravel" pattern="^\[([\d\-: ]*)] [\s\S]*?\.(.*?(?=:)): ([\s\S]*?(?=(^\[[\d\-: ]*])|\Z))" timePattern="yyyy-MM-dd HH:mm:ss" linePattern="^\[\d" timeId="0" severityId="1" fullmatch="true" uuid="9a75fe1c-24f0-4e5d-8359-ce4dbb9c4c33" />
     </parsingPatterns>
-    <settingsVersion>4</settingsVersion>
-    <lastAddedDefaultFormat>3</lastAddedDefaultFormat>
+    <settingsVersion>6</settingsVersion>
+    <lastAddedDefaultFormat>b5772998-bf1e-4d9d-ab41-da0b86451163,8a0e8992-94cb-4f4c-8be2-42b03609626b,e9fa2755-8390-42f5-a41e-a909c58c8cf9,db0779ce-9fd3-11ec-b909-0242ac120002</lastAddedDefaultFormat>
   </component>
 </application>
