@@ -7,6 +7,7 @@
     <option name="selectAutopopupSuggestionsByChars" value="true" />
     <option name="AUTO_POPUP_JAVADOC_INFO" value="true" />
     <option name="SELECT_AUTOPOPUP_SUGGESTIONS_BY_CHARS" value="true" />
+    <option name="AUTOCOMPLETE_ON_SMART_TYPE_COMPLETION" value="false" />
     <option name="HIGHLIGHT_SCOPE" value="true" />
   </component>
   <component name="DaemonCodeAnalyzerSettings">
@@ -14,14 +15,19 @@
   </component>
   <component name="EditorSettings">
     <option name="IS_RIGHT_MARGIN_SHOWN" value="false" />
+    <option name="ENABLE_RENDERED_DOC" value="true" />
     <option name="IS_WHITESPACES_SHOWN" value="true" />
     <option name="IS_DND_ENABLED" value="false" />
+    <option name="INSERT_PARENTHESES_AUTOMATICALLY" value="false" />
   </component>
   <component name="InlayHintsSettings">
     <option name="lastViewedProviderKeyId" value="parameter.hints.old" />
   </component>
   <component name="PhpCodeFoldingSettings">
     <option name="COLLAPSE_IMPORTS" value="false" />
+  </component>
+  <component name="PhpEditorOptions">
+    <option name="SHOW_CLASS_SEPARATORS" value="true" />
   </component>
   <component name="SqlEditorTabsSettings" SHORTEN_TAB_NAMES="false">
     <option name="shortenTabNames" value="false" />
