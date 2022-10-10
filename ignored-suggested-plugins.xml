@@ -4,6 +4,7 @@
       <list>
         <option value="intellij.webpack" />
         <option value="org.intellij.plugins.postcss" />
+        <option value="com.jetbrains.lang.ejs" />
       </list>
     </option>
   </component>
