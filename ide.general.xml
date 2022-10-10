@@ -17,6 +17,7 @@
         <entry key="DBNavigator.Project.DatasetEditorStatusBarWidgetFactory" value="false" />
         <entry key="Encoding" value="false" />
         <entry key="LineSeparator" value="false" />
+        <entry key="Memory" value="true" />
         <entry key="TypeScriptInfo" value="false" />
         <entry key="com.github.copilot" value="false" />
         <entry key="com.intellij.psi.codeStyle.statusbar.CodeStyleStatusBarWidget" value="false" />
