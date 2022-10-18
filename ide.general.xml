@@ -14,11 +14,14 @@
         <entry key="CwmWireStatsWidgetFactory" value="false" />
         <entry key="DBNavigator.Project.DatasetEditorStatusBarWidgetFactory" value="false" />
         <entry key="Encoding" value="false" />
+        <entry key="FlowJSInfo" value="false" />
         <entry key="LineSeparator" value="false" />
+        <entry key="Memory" value="true" />
         <entry key="TypeScriptInfo" value="false" />
         <entry key="com.github.copilot" value="false" />
         <entry key="com.intellij.psi.codeStyle.statusbar.CodeStyleStatusBarWidget" value="false" />
         <entry key="mtStatusBar" value="false" />
+        <entry key="webDeployment.default.server.widget" value="false" />
       </map>
     </option>
   </component>
