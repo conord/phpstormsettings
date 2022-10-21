@@ -1,8 +1,11 @@
 <application>
   <component name="AtomFileIconsConfig">
+    <option name="enabledNewUiIcons" value="true" />
+    <option name="lowPowerMode" value="false" />
+    <option name="isEnabledNewUiIcons" value="true" />
     <option name="monochromeColor" value="546e7a" />
     <option name="accentColor" value="2979ff" />
     <option name="themedColor" value="979fad" />
-    <option name="hasBigIcons" value="true" />
+    <option name="isLowPowerMode" value="false" />
   </component>
 </application>
