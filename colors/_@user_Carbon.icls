@@ -4,7 +4,7 @@
     <property name="created">2022-10-19T10:40:19</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2022.2.3.0.0</property>
-    <property name="modified">2022-10-19T11:15:21</property>
+    <property name="modified">2022-10-21T12:44:06</property>
     <property name="originalScheme">Carbon</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.4" />
@@ -663,9 +663,9 @@
     <option name="TAPESTRY_COMPONENT_TAG" baseAttributes="" />
     <option name="TEXT">
       <value>
-        <option name="FOREGROUND" value="c9cccd" />
+        <option name="FOREGROUND" value="deff00" />
         <option name="BACKGROUND" value="172030" />
-        <option name="EFFECT_TYPE" value="5" />
+        <option name="EFFECT_COLOR" value="301717" />
       </value>
     </option>
     <option name="TEXT_SEARCH_RESULT_ATTRIBUTES">
@@ -677,7 +677,7 @@
     </option>
     <option name="TODO_DEFAULT_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="5d6976" />
+        <option name="FOREGROUND" value="deff00" />
         <option name="FONT_TYPE" value="3" />
         <option name="ERROR_STRIPE_COLOR" value="977ab" />
       </value>
