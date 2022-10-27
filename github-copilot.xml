@@ -27,6 +27,6 @@
       <option value="Vue" />
       <option value="VueJS" />
     </disabledLanguages>
-    <option name="telemetryTermsAcceptedDate" value="2022-01-26T08:57:19.916144-06:00[America/Chicago]" />
+    <option name="checkForUpdate" value="false" />
   </component>
 </application>
