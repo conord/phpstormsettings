@@ -1,0 +1,9 @@
+<application>
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="0369fdd2-a2c3-469c-9dc4-f736a32628d3" name="Boardlead 1.0" url="http://boardlead.test">
+        <fileTransfer accessType="LOCAL" port="0" />
+      </webServer>
+    </option>
+  </component>
+</application>
